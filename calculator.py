@@ -1,3 +1,12 @@
+# DEC 3, 2021
+# This is my first command line calculator app.
+
+# WARNING
+
+# Enter the expression considering mathematical order.
+# This application does not follow mathematical order.
+# This application follows direct order.
+
 ZERO_DIVISION = "ERROR: You cannot divide by 0."
 UNDEF_SYM = "ERROR: Undefined symbol."
 
